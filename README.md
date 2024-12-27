@@ -1,1 +1,1 @@
-Some files from the dataset were removed due to github being unable to support the long file names.
+This project, developed with a partner as part of our Machine Learning coursework during my third year at university, had some dataset files removed due to GitHub's inability to support excessively long file names.
